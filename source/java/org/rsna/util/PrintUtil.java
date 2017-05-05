@@ -5,7 +5,7 @@
 *  RSNA Public License (http://mirc.rsna.org/rsnapubliclicense.pdf)
 *----------------------------------------------------------------*/
 
-package org.rsna.ui;
+package org.rsna.util;
 
 import java.awt.*;
 import javax.swing.*;
